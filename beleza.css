@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(19, 19, 19);
+    width: auto;
+    height: 2000px;
+
+}
+
+
+
+
+.perfil img {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: rgb(171, 0, 171);
+}
+
+.geral {
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(40, 2, 32);
+    
+}
+
+
+h1,
+ul {
+    color: rgb(170, 1, 255);
+    font-style: normal;
+    list-style-type: none;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(54, 4, 29);
+}
+
+ul{margin: 60px;
+
+}
+
+a{color: #ff00ff;
+
+}
